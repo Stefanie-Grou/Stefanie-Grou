@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Stefanie Castro!</h1>
 
-<!--
-**Stefanie-Grou/Stefanie-Grou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌻 Originally a Biologist
+  🧪 LIMS consultant
+  🔥 Changing careers
+  🧩 Neurodivergent
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...d
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌎 <b> About me </b>
+💻 Data Science and Software Engineering Student | UNIVESP
+
+📍 São Paulo - SP - Brazil.  
+
+💬 **Let's connect! You can reach me at [LinkedIn](https://www.linkedin.com/in/stefanie-castro/) or via [email](mailto:stefanielima@ymail.com).**
+
+---
+
+## 🛠️ Tools  
+![BASIC](https://img.shields.io/badge/BASIC-green) ![SQL](https://img.shields.io/badge/SQL-orange) ![CRYSTAL](https://img.shields.io/badge/Crystal_Reports-blue) Automating laboratories using LIMS, leading the interfaces and integrations team.
+
+![Python](https://img.shields.io/badge/Python-yellow) Analyzing data in the medical context, predicting risk factors in transplants.
+
+![Java](https://img.shields.io/badge/Java-grey) Developing Java skills
+
+---
+
+## 🚀 **Current Professional Projects** 
+
+Automating mining laboratories | Labware Brazil | Since 2022
+
+Studying Java | Ada | Since 2024 
+
+---
+## 🗻 **My Current Study Projects** 
+
+Car rental system
+
+---
+💪🏽 Let's work [together](https://www.linkedin.com/in/stefanie-castro/)! Feel free to reach out to me and collaborate on interesting projects!
