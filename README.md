@@ -23,7 +23,7 @@
 
 ![Python](https://img.shields.io/badge/Python-yellow) Analyzing data in the medical context, predicting risk factors in transplants.
 
-![Java](https://img.shields.io/badge/Java-grey) Developing Java skills
+![Java](https://img.shields.io/badge/Java-grey) Developing Java skills | Under training
 
 ---
 
