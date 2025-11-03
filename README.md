@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Stefanie Castro!</h1>
 
 <p align="center">
-  🌻 Originally a Biologist
-  🧪 LIMS consultant
-  🔥 Changing careers
+  💻 Software Development Assistant
+  🔥 Software Engineering Student
   🧩 Neurodivergent
+  🌳 Originally a Biologist
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 📍 São Paulo - SP - Brazil.  
 
-I’m currently transitioning from a LIMS consultant to a Back-End Developer, focusing on Java. With strong skills in SQL, Python, and process automation, I'm eager to apply my technical abilities to new challenges in software development. My GitHub showcases the projects I'm working on as I build my proficiency in Java and back-end technologies.
+I’m currently transitioning to a Back-End Developer carrer, focusing on Java skills. With strong skills in SQL, Python, and process automation, I'm eager to apply my technical abilities to new challenges in software development. My GitHub showcases the projects I'm working on as I build my proficiency in Java and back-end technologies.
 
 💬 **Let's connect! You can reach me at [LinkedIn](https://www.linkedin.com/in/stefanie-castro/) or via [email](mailto:stefanielima@ymail.com).**
 
@@ -31,7 +31,9 @@ I’m currently transitioning from a LIMS consultant to a Back-End Developer, fo
 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-b39171) ![VSCode](https://img.shields.io/badge/VSCode-b39171) My main IDE 
 
-In contact with ![Python](https://img.shields.io/badge/Python-7d86a7) ![C](https://img.shields.io/badge/C-b39171)
+Other techonologies
+![Python](https://img.shields.io/badge/Python-505978) ![C](https://img.shields.io/badge/C-505978) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-505978)
+
 ---
 
 ## 🚀 **Current Professional Projects** 
