@@ -21,11 +21,9 @@ I’m currently transitioning from a LIMS consultant to a Back-End Developer, fo
 ---
 
 ## 🛠️ Tools  
-![Java](https://img.shields.io/badge/Java-26304c) Developing Java skills | Under training
+![Java](https://img.shields.io/badge/Java-26304c) Developing Java skills | Under training | Mercado Libre
 
-![BASIC](https://img.shields.io/badge/BASIC-505978) ![SQL](https://img.shields.io/badge/SQL-505978) ![CRYSTAL](https://img.shields.io/badge/Crystal_Reports-505978) Automating laboratories using LIMS, leading the interfaces and integrations team.
-
-![Python](https://img.shields.io/badge/Python-7d86a7) Analyzing data in the medical context, predicting risk factors in transplants.
+![BASIC](https://img.shields.io/badge/BASIC-505978) ![SQL](https://img.shields.io/badge/SQL-505978) ![CRYSTAL](https://img.shields.io/badge/Crystal_Reports-505978) Automated laboratories using LIMS, leading the interfaces and integrations team.
 
 ![HTML](https://img.shields.io/badge/HTML-adb5d9) ![CSS](https://img.shields.io/badge/CSS-adb5d9) ![Javascript](https://img.shields.io/badge/Javascript-adb5d9) Learning some front-end skills
 
@@ -33,13 +31,12 @@ I’m currently transitioning from a LIMS consultant to a Back-End Developer, fo
 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-b39171) ![VSCode](https://img.shields.io/badge/VSCode-b39171) My main IDE 
 
+In contact with ![Python](https://img.shields.io/badge/Python-7d86a7) ![C](https://img.shields.io/badge/C-b39171)
 ---
 
 ## 🚀 **Current Professional Projects** 
 
-Automating mining laboratories | Labware Brazil | Since 2022
-
-Studying Java | Ada | Since 2024 
+Software Development Assistant in Mercado Libre - since 2025
 
 ---
 ## 🗻 **My Current Study Projects** 
